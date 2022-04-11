@@ -20,4 +20,4 @@
 
 ### Evangelista do desenvolvimento web, viciado em boas práticas !
 
-#### "Qualquer idiota pode escrever código que um computador pode entender. Bons programadores escrevem código que seres humanos podem entender." - Martin Fowler"
+#### "Qualquer idiota pode escrever código que um computador pode entender. Bons programadores escrevem código que seres humanos podem entender." - Martin Fowler
